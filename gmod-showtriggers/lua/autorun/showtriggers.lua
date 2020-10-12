@@ -23,7 +23,6 @@ ShowTriggers.Entities = {
   ["trigger_teleport"] = true,
   ["trigger_multiple"] = true,
   ["trigger_push"]     = true,
-  ["func_*"]           = true,
 }
 
 -- Print the addon messages to console
